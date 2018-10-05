@@ -1,0 +1,2 @@
+echo "# Test Assignment #2" > README.md
+echo "**Leonardo Fanchini**">> README.md
